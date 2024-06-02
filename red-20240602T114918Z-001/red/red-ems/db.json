@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "adamg",
+      "address": "bza",
+      "email": "abc@gmail.com",
+      "contact": "5454534",
+      "id": 1
+    },
+    {
+      "name": "ruth",
+      "address": "bza",
+      "email": "abc@gmail.com",
+      "contact": "5454534",
+      "id": 2
+    },
+    {
+      "name": "tesr",
+      "email": "abc@jk",
+      "contact": "1878",
+      "address": "bhgs",
+      "id": 3
+    }
+  ]
+}
